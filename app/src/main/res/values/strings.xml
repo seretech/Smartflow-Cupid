@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cupid</string>
+    <string name="sure_to_exit">Sure To Exit?</string>
+    <string name="no">No</string>
+    <string name="yes_exit">Yes, Exit</string>
+</resources>
